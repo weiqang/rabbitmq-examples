@@ -1,0 +1,21 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core temporary files
+[Bb]in/
+[Oo]bj/
+
+project.lock.json
+
+# VS Code temporary files
+.vscode/
+
+# Visual Studio temporary files
+.vs/
+**/Properties/launchSettings.json
+
+# Linux system files
+.directory
